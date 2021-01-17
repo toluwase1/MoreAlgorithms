@@ -1,7 +1,10 @@
 package com.company.bubblesort;
 
 public class PangramChecker {
-    public boolean check(String sentence){
+    public static void main(String[] args) {
+        System.out.println(check("qgukmeiwxladsno cyvrphbjtzf"));
+    }
+    public static boolean check(String sentence){
         String hold = sentence.toLowerCase();
         int sum = 0;
 
