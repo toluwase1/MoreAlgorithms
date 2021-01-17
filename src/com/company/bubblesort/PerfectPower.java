@@ -26,6 +26,7 @@ public class PerfectPower {
 
 
 
+
 //public class PerfectPower {
 //    public static Double isPerfectPower(int n) {
 //        // ...
